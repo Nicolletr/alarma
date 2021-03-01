@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Alarma\Alarma\bin\Debug\netcoreapp3.1\Alarma.exe
+C:\Users\Usuario\Documents\Alarma\Alarma\bin\Debug\netcoreapp3.1\Alarma.deps.json
+C:\Users\Usuario\Documents\Alarma\Alarma\bin\Debug\netcoreapp3.1\Alarma.runtimeconfig.json
+C:\Users\Usuario\Documents\Alarma\Alarma\bin\Debug\netcoreapp3.1\Alarma.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Alarma\Alarma\bin\Debug\netcoreapp3.1\Alarma.dll
+C:\Users\Usuario\Documents\Alarma\Alarma\bin\Debug\netcoreapp3.1\Alarma.pdb
+C:\Users\Usuario\Documents\Alarma\Alarma\obj\Debug\netcoreapp3.1\Alarma.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Alarma\Alarma\obj\Debug\netcoreapp3.1\Alarma.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Alarma\Alarma\obj\Debug\netcoreapp3.1\Alarma.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Alarma\Alarma\obj\Debug\netcoreapp3.1\Alarma.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Alarma\Alarma\obj\Debug\netcoreapp3.1\Alarma.dll
+C:\Users\Usuario\Documents\Alarma\Alarma\obj\Debug\netcoreapp3.1\Alarma.pdb
+C:\Users\Usuario\Documents\Alarma\Alarma\obj\Debug\netcoreapp3.1\Alarma.genruntimeconfig.cache
